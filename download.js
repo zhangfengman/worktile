@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         worktile任务下载
-// @namespace    https://bkir20201118072037917.worktile.com
+// @namespace    填写域名
 // @version      0.1
 // @description  try to take over the world!
 // @author       zhangfengman
-// @match        https://bkir20201118072037917.worktile.com/mission/projects/5ffd58a2035da114efc1c283
+// @match        填写域名
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
